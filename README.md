@@ -1,9 +1,9 @@
-# rPlant
-Blueprint or Schematyc like System
+# Node-rs
+Blueprint or Schematyc like Nodebased Scripting System for Graphic Engine!
 
 ## Short Description
 
-rPlant is a node based low level programming language!
+Node-rs is a node based low level scripting language!
 
 - Node based
 - Written with Rust Language
