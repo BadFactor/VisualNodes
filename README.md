@@ -1,10 +1,10 @@
-# Node-rs
-Blueprint or Schematyc like Nodebased Scripting System for Graphic Engine!
-
 ## Short Description
+VisualNodes is a node based low level **Visual Modular Language**!
 
-Node-rs is a node based low level scripting language!
-
-- Node based
 - Written with Rust Language
 - 
+
+# VisualNodes
+  - this is an IDE like Editor
+    - there is a node based view
+    - there is the code view
